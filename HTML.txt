@@ -1,0 +1,59 @@
+<DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+   background-color:pink;
+}
+h1{
+   text-align:center;
+   color:pink;
+   background-color:brown;
+}
+h1::first-line{
+   color:blue;
+   font-size:70px;
+}
+h2{
+   text-align:center;
+   color:violet;
+   background-color:gray;
+}
+h2::first-letter{
+   color:green;
+   font-size:60px;
+}
+.p{
+   text-align:justify;
+   color:gold;
+   background-color:aqua;
+   font-size:30px;
+   border-radius:30px;
+}
+.p::first-line{
+   color:magenta;
+   font-size:40px;
+}
+a:hover{
+   color:yellow;
+}
+</style>
+</head>
+<body>
+<h1>NATIONAL FLOWER</h1>
+<h2>LOTUS</h2>
+<p class="p">The national flower of a country should tie in with the culture, history and heritage of a nation. It is meant to reinforce the country’s image to the world and play a part in upholding the qualities that the nation holds true.  The national flower of India is Lotus. It is an aquatic herb that is often termed as ‘Padma’ in Sanskrit and enjoys a sacred status among the Indian culture. It has been an integral part of the Indian culture from time immemorial. A prominent feature of the Indian mythology, the lotus is one with the Indian identity and represents the core values of Indian psyche.The Lotus symbolizes spirituality, fruitfulness, wealth, knowledge and illumination. The most important thing about lotus is that even after growing in murky water it is untouched by its impurity. On the other hand the lotus symbolizes purity of heart and mind.</p>
+<nav>
+<a href="flower">| FLOWER |</a>
+<a href="beautiful"> BEAUTIFUL |</a>
+<a href="unique"> UNIQUE |</a>
+</nav>
+<footer>
+<p>@ 2025 The national flower of India is Lotus</p>
+</footer>
+</body>
+</html> 
+
+
+
+
